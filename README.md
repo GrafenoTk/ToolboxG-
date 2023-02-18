@@ -1,11 +1,1 @@
-### G+ Project Toolbox 🧰
-
-Created by iNINJAFPS OFICIAL
-
-## ✱ Tweaking 🛠️
-## ✱ Mods 👾
-## ✱ Emulator 🎮
-## ✱ Projetos 📦
-
-
-#  Copyright © Grafeno Tweaking+ . all rights reserved
+<p><a href="https://github.com/GrafenoTk/ToolboxG-/releases/download/G%2BToolboxUP/G+ToolboxUP.exe" rel="nofollow"><img src="https://github-basic-badges.herokuapp.com/downloads/GrafenoTk/ToolboxG-/G%2BToolboxUP/G+ToolboxUP.exe/total.svg" alt="Download"></a></p>
